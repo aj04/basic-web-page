@@ -1,3 +1,5 @@
 # basic-web-page
 
-URL : https://aj04.github.io/basic-web-page/module2-solution/
+Restaurant Code base using Plain Javascript
+
+URL : https://aj04.github.io/basic-web-page/module5-solution/
